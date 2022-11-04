@@ -28,7 +28,7 @@ This is my undergrad thesis. Using regularized regression methods, we implement 
 
 ***
 
-💻 [Quarto Tutorial for beginners](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf)
+💻 [Quarto Tutorial for beginners](https://pablolopez2733.github.io/Quarto-Tutorial/Introduccion.html)
 <br> 
 As part of an introductory R course for health workers taught by [Rodrigo Zepeda](https://twitter.com/RodZepeda) and me, I created a Quarto tutorial which covers report generation in Word and HTML. 
 <br> 
@@ -38,7 +38,7 @@ As part of an introductory R course for health workers taught by [Rodrigo Zepeda
 ***
 
 
-⚽ [Soccer Simulator](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf)
+⚽ [Soccer Simulator](hhttps://github.com/pablolopez2733/Soccer_Simulator)
 <br> 
 A tool for simulating soccer matches using Poisson distro + Monte Carlo Simulation. Still a WIP!
 <br> 
@@ -46,7 +46,7 @@ A tool for simulating soccer matches using Poisson distro + Monte Carlo Simulati
 
 ***
 
-🦠 [Estimating COVID-19 cases using contact index](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf)
+🦠 [Estimating COVID-19 cases using contact index](https://rodrigozepeda.github.io/CapacidadHospitalariaMX/)
 <br> 
 <br> 
 I am currently working with [Rodrigo Zepeda](https://twitter.com/RodZepeda) and [Guillermo de Anda](https://twitter.com/gdeandajauregui) on implementing a series of models for estimating effective reproductive number of COVID-19 for Mexico City using Contact Index and different time series methods.
@@ -56,7 +56,7 @@ Because the models are still a work in progress, the repo is not yet publicly av
 
 ***
 
-🍜 [Random restaurant decider](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf)
+🍜 [Random restaurant decider](https://github.com/pablolopez2733/Restaurant-Random-Walk)
 <br> 
 R codes for running a random walk and randomly selecting which restaurant to dine at :)
 <br> 
@@ -64,16 +64,16 @@ R codes for running a random walk and randomly selecting which restaurant to din
 
 ***
 
-🔐 [Vigenere Cyphering App](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf)
+🔐 [Vigenere Cyphering App](https://vignerecypher-72f13.web.app/)
 <br> 
-Created and deployed a web app for encrypting and deciphering messages using vigenere ciphering.
+Created and deployed an interactive web app for encrypting and deciphering messages using vigenere ciphering.
 <br> 
 ![alt text](imgs/vig.png)
 
 ***
 
 
-⚽ [Are penalties really a coin toss?](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf)
+⚽ [Are penalties really a coin toss?](https://9plus6.com/los-penaltis-el-volado-injusto/)
 <br> 
 *A statistical analysis of penalty kicks taken in World Cups found that the most frequent zone (bottom left) is also the lowest in terms of goal percentage. For goalkeepers, the best strategy might be not to dive at all.*
 ![alt text](imgs/pviz.png)
@@ -81,7 +81,7 @@ viz by: Jeffrey Braun
 
 ***
 
-🦠 [Vizualizing COVID 19 spread](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf)
+🦠 [Vizualizing COVID 19 spread](https://github.com/pablolopez2733/Covid-19-Data)
 <br> 
 Code for generating interactive maps that track the global spread of Coronavirus since March 2020.
 
