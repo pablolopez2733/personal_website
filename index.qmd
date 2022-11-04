@@ -1,0 +1,27 @@
+---
+title: "Pablo Lopez Landeros"
+about:
+  template: jolla
+  image: pll.jpeg
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/Landeros_p33
+    - icon: github
+      text: Github
+      href: https://github.com/pablolopez2733?tab=repositories
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/pablo-l%C3%B3pez-landeros-423060157/
+    - icon: envelope
+      text: email
+      href: mailto:pablolopez2733@gmail.com
+---
+
+Data Scientist 📊 🧪 and ex-athlete 🏀 currently working on implementing AI models within the finance industry and attempting to do research in sports analytics in his spare time.
+
+Interested in exploring the instersection between Computing and Mathematics and all its possible applications in physics, biology and sports.
+
+Native R speaker but will do Python for food. 
+
+

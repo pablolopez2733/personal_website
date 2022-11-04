@@ -1,0 +1,63 @@
+# Summary 🗂️
+
+
+♢ Born and raised in Mexico City 🇲🇽 .
+
+
+♢ Applied Mathematics BS @ Instituto Tecnológico Autónomo de México.
+
+
+♢ Interested in Machine Learning, Time Series Forecasting, Mixed-Effects Inferential Analysis and Bayesian methods.
+
+
+♢ For my BsC thesis I proposed a lineup usage optimization model for the NBA using regularized regression methods. You can check it out [here](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf)
+
+♢ Participated in Stathletes Big Data Cup. You can check my submission paper [here](https://github.com/Echeney17/BigDataCup2021/blob/main/bdc_WP.pdf)!
+
+
+♢ Aided in implementing a model for estimating effective reproductive number of COVID-19 for Mexico City using Contact Index . (Repo not yet publicly available :/ )
+
+
+♢ Check out my contributions at [9plus6](https://9plus6.com/). Which are dedicated data driven analysis  of the NBA, NFL and other major league sports.
+
+♢ If you want some random data driven sports takes... [Follow me on Twitter](https://twitter.com/Landeros_p33) !
+
+
+
+## Work Experience 💼
+
+#### Currently
+
+Soon...
+
+#### Past Work ️
+* **Machine Learning Engineer** | Engen Capital
+  * April 2022 - October 2022
+
+* **Data Scientist** | Coca Cola FEMSA
+  * January 2021 - April 2022
+  
+* **Information Security Data Analysis Intern** | KPMG
+  * July 2019 - February 2020
+
+* **Vicepresident** | Sports Analytics Student Association
+  * December 2019 - July 2020
+
+
+
+## Education 🎓
+* **Applied Mathematics BsC** | Instituto Tecnológico Autónomo de México
+  * Honorable Mention upon graduation
+  * *Thesis : Application of Regularized Regression Methods to evaluate player market value and forecast the NBA Playoffs.*
+  * 2017 - 2020
+* **Actuarial Sciences** | Universidad Anáhuac México Sur
+  * Full Basketball Scholarship
+  * Honor Student-Athlete award
+  * 2015 - 2017
+* **High School** | Modern American School
+  * 2012 - 2015
+* **English C2 Certificate** | Cambridge University
+  * 2012 - 2015
+
+
+

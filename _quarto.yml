@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Me
+      - href: projects.qmd
+        text: Projects
+      - href: Tweets.qmd
+        text: Media Links
+      - href: CV.qmd
+        text: CV
+
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+
+
