@@ -18,7 +18,7 @@ about:
       href: mailto:pablolopez2733@gmail.com
 ---
 
-Data Scientist 📊 🧪 and ex-athlete 🏀 currently working on implementing AI models within the finance industry and attempting to do research in sports analytics in his spare time.
+Data Scientist 📊 🧪 @ Zelus Analytics and ex-athlete 🏀 currently living his dream of working and doing research on sports quantitative analysis.
 
 Interested in exploring the instersection between Computing and Mathematics and all its possible applications in physics, biology and sports.
 

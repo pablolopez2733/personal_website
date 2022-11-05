@@ -28,7 +28,7 @@
 
 #### Currently
 
-Soon...
+I am currently a Data Scientist at [Zelus Analytics](https://zelusanalytics.com/)
 
 #### Past Work ️
 * **Machine Learning Engineer** | Engen Capital
