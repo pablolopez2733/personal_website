@@ -1,3 +1,19 @@
+## Media Appearances 📹
+
+♦ [World Cup penalty kicks, tracked](https://www.youtube.com/watch?v=HAuwPue57Vs&ab_channel=Vox)
+<br> 
+I joined Vox's Phil Edwards for a quick chat about a dataset I put together about penalty kicks during World Cups.
+![vox](imgs/voxint.png)
+
+
+#### Summary
+Data scientist Pablo López Landeros pored over hundreds of kicks and tracked where keepers dove, where players kicked the ball and, most importantly, when they scored a goal. As the above video shows, the results provided some conclusions — and also raised some questions about the best spot for a penalty kick.
+
+#### Links
+- [Video](https://www.youtube.com/watch?v=HAuwPue57Vs&ab_channel=Vox)
+- [Full Dataset](https://www.kaggle.com/datasets/pablollanderos33/world-cup-penalty-shootouts)
+
+
 ## Tweets 📱
 
 Here are some of my data driven posts on Twitter ⌨️
