@@ -18,13 +18,13 @@ about:
       href: mailto:pablolopez2733@gmail.com
 ---
 
-[Basketball Data Scientist 📊 🧪 @ Zelus Analytics](https://www.zelusanalytics.com/) and ex-athlete 🏀 
+I’m a mathematician  and former athlete 🏀 turned [Data Scientist 📊 🧪 @ Zelus Analytics](https://www.zelusanalytics.com/) specializing in Basketball and Hockey R&D. 
 
-Currently working and doing research on sports quantitative analysis **(and a PhD)** 🇩🇪
+For years, I’ve been building and refining predictive models, applying Bayesian statistics, machine learning, time series analysis, and spatial modeling in a variety of projects, from public health initiatives to frame by frame models in sports.
 
-Worked in 🏒 analytics for 2 years
+Currently, I’m researching and working in sports quantitative analysis (and pursuing a PhD 🇩🇪).
 
-Interested in exploring the instersection between **Computing and Mathematics for descriptive and predictive modeling with applications in sports, physics, and biology.**
+I’m particularly interested in the intersection of computing and mathematics, exploring how descriptive and predictive modeling can drive insights in sports, physics, and biology.
 
 [Co-Founder and Organizer of ITAM Sports Analytics](https://itam-sports-analytics-conference.github.io/)
 
