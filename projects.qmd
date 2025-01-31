@@ -3,6 +3,22 @@
 
 Here are some of the projects I have worked on:
 
+⚽️[Penalty Shootout Analysis]()
+<br> 
+Developed mixed effects models to analyze penalty kicks in World Cup shootouts, examining factors such as psychological stress, dominant foot, and the advantage of shooting first.
+
+![Team Efficiency Analysis](imgs/team_eff.png)
+
+
+<br> 
+🏀 [Application of Regularized Regression Methods to forecast the NBA Playoffs & Trade Evaluation Scenarios.](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf)
+<br> 
+This is my undergrad thesis. Using regularized regression methods, we implement an improvement over the traditional plus-minus metric. We then explore the predictive value of our model by forecasting the outcome of the 2015 playoffs.
+<br> 
+<br> 
+![Predictions for Golden State Warriors](imgs/warrtable.png)
+
+
 🏈 [A ggplot implementation for plotting NFL player tracking data.](https://www.kaggle.com/code/pablollanderos33/generate-play-animations-with-ggplot)
 <br> 
 Using ggplot and based on previous work by Adam Sonty, I created a set of functions to plot NFL tracking data.  
@@ -15,16 +31,6 @@ Using ggplot and based on previous work by Adam Sonty, I created a set of functi
 <br> 
 For our Big Data Cup entry, we adapted a soccer metric called Expected Threat (xT) to Hockey and used it to calculate Win Probability in Women's Hockey. 
 ![vizxt](https://github.com/pablolopez2733/BigDataCup/blob/main/Pablo/playviz.png?raw=true)![heat](https://github.com/pablolopez2733/BigDataCup/blob/main/nxt.png?raw=true)
-
-***
-
-
-🏀 [Application of Regularized Regression Methods to forecast the NBA Playoffs & Trade Evaluation Scenarios.](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf)
-<br> 
-This is my undergrad thesis. Using regularized regression methods, we implement an improvement over the traditional plus-minus metric. We then explore the predictive value of our model by forecasting the outcome of the 2015 playoffs.
-<br> 
-<br> 
-![alt text](imgs/warrtable.png)
 
 ***
 
@@ -49,10 +55,8 @@ A tool for simulating soccer matches using Poisson distro + Monte Carlo Simulati
 🦠 [Estimating COVID-19 cases using contact index](https://rodrigozepeda.github.io/CapacidadHospitalariaMX/)
 <br> 
 <br> 
-I am currently working with [Rodrigo Zepeda](https://twitter.com/RodZepeda) and [Guillermo de Anda](https://twitter.com/gdeandajauregui) on implementing a series of models for estimating effective reproductive number of COVID-19 for Mexico City using Contact Index and different time series methods.
+I worked with [Rodrigo Zepeda](https://twitter.com/RodZepeda) and [Guillermo de Anda](https://twitter.com/gdeandajauregui) on implementing a series of models for estimating effective reproductive number of COVID-19 for Mexico City using Contact Index and different time series methods.
 <br> 
-
-Because the models are still a work in progress, the repo is not yet publicly available :(
 
 ***
 
@@ -70,14 +74,6 @@ Created and deployed an interactive web app for encrypting and deciphering messa
 <br> 
 ![alt text](imgs/vig.png)
 
-***
-
-
-⚽ [Are penalties really a coin toss?](https://9plus6.com/los-penaltis-el-volado-injusto/)
-<br> 
-*A statistical analysis of penalty kicks taken in World Cups found that the most frequent zone (bottom left) is also the lowest in terms of goal percentage. For goalkeepers, the best strategy might be not to dive at all.*
-![alt text](imgs/pviz.png)
-viz by: Jeffrey Braun
 
 ***
 

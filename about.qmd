@@ -1,33 +1,26 @@
-## Pablo López Landeros
+# Pablo López Landeros
 
-### Contact Information ℹ️
+Data Scientist and former athlete with 5+ years of experience in sports quantitative analysis, dedicated to delivering actionable insights that drive strategic decisions. 
 
--   **Phone:** +52-55-22-96-96-84\
--   **Email:** [pablolopez2733\@gmail.com](mailto:pablolopez2733@gmail.com)\
--   **LinkedIn:** [pablo-lópez-landeros-423060157](https://www.linkedin.com/in/pablo-l%C3%B3pez-landeros-423060157)\
--   **Portfolio:** [pablolopez2733.github.io/personal_website](https://pablolopez2733.github.io/personal_website/projects.html)
+Skilled in synthesizing complex data and leveraging statistical methods to enhance organizational outcomes. Passionate about the intersection of Computing and Mathematics for descriptive and predictive modeling with applications in sports, physics, and biology.
 
 ------------------------------------------------------------------------
 
-## Summary
+## 📚 Education 
 
-Data Scientist and former athlete with 5+ years of experience in sports quantitative analysis, dedicated to delivering actionable insights that drive strategic decisions. Skilled in synthesizing complex data and leveraging statistical methods to enhance organizational outcomes. Passionate about the intersection of Computing and Mathematics for descriptive and predictive modeling with applications in sports, physics, and biology.
+### B.S. Applied Mathematics 
 
-------------------------------------------------------------------------
-
-## Education 📚
-
-### B.S. Applied Mathematics (Computer Science Minor)
-
-*Instituto Tecnológico Autónomo de México (ITAM)* \| 2016 – 2020\
+###### Instituto Tecnologico Autonomo de Mexico
+*2016 – 2020*\
 - **GPA:** 8.8/10\
 - Graduated with honorable mention.\
-- **Thesis:** "Application of Regularized Regression Methods to Forecast the NBA Playoffs."
+- `Thesis`: Application of Regularized Regression Methods to Forecast the NBA Playoffs.
 
-### Ph.D. Sports Analytics (In Progress, Proposal Stage)
+### Ph.D. Sports Analytics
 
-*University of Saarland* \| 2024 - Present\
-- **Thesis:** "Modeling Penalty Kicks as a Sequential Decision-Making Process."
+###### University of Saarland
+*2024 - Present* (In progress, proposal stage)\
+- `Thesis`: Modeling Penalty Kicks as a Sequential Decision-Making Process.
 
 ### Certificate in Physical Data Analysis with R for Sport Scientists
 
@@ -35,7 +28,7 @@ Data Scientist and former athlete with 5+ years of experience in sports quantita
 
 ------------------------------------------------------------------------
 
-## Technical Skil s🔧
+## 🔧Technical Skills
 
 -   **`Foreign Language:`** C2 English Proficiency Certificate from Cambridge University.\
 -   **`Programming Languages`:** SQL (servers, dbt, BigQuery, Snowflake), Python (Pandas, Scikit-learn, StatsModels, Keras), R (dplyr, ggplot, XGBoost, Tidymodels, glmnet, STAN), MATLAB, C#, C++.\
@@ -48,31 +41,32 @@ Data Scientist and former athlete with 5+ years of experience in sports quantita
 
 ------------------------------------------------------------------------
 
-## Professional Experience🧪
+## 🧪Professional Experience
 
-##### **Zelus Analytics \| Data Scientist (Basketball Intelligence Platform)**
-
+#### Basketball Data Scientist
+###### Zelus Analytics
 *November 2024 - Present*\
 - CONFIDENTIAL BUT U CAN ASK :D
 
-##### **Zelus Analytics \| Data Scientist (Hockey Intelligence Platform)**
+#### Hockey Data Scientist
+###### Zelus Analytics
 
 *November 2022 - November 2024*\
 - CONFIDENTIAL BUT U CAN ASK :D
 
-##### **Engen Capital \| Machine Learning Engineer (Risk Assessment Department)**
-
+#### Machine Learning Engineer
+###### Engen Capital
 *March 2022 - November 2022*\
 - Developed and deployed AI-driven computer vision systems to automate and expedite credit application processes, reducing response times from two weeks to three days.\
 - Enhanced risk assessment models by optimizing machine learning algorithms that predict applicant default probabilities.
 
-##### **Toluca F.C. \| Internship (Scouting)**
-
+#### Internship (Scouting)
+###### Toluca F.C.
 *June 2021 - December 2021*\
 - Aided with the pinpointing of potential acquisitions from minor South American leagues by leveraging advanced soccer analytics, streamlining the scouting process for coaches and scouts.
 
-##### **Coca Cola FEMSA \| Data Scientist (Business Analytics and Intelligence)**
-
+#### Data Scientist 
+###### Coca Cola FEMSA
 *January 2021 - March 2022*\
 - Utilized multivariate time series and machine learning algorithms to refine sales forecasts, achieving a model accuracy of 90%.\
 - Increased zone-based sales forecasting speed by 40% using xGBoost multivariate time series and supervised regression trees algorithms.\
@@ -80,15 +74,15 @@ Data Scientist and former athlete with 5+ years of experience in sports quantita
 - Oversaw and optimized SQL databases to improve data architecture and quality across Mexico, ensuring robust data management and enhancing overall data integrity.\
 - Automated internal reporting processes, reducing required labor by over 12 hours weekly.
 
-##### **KPMG International \| Intern (Information Technology)**
-
+####  Cybersecurity Intern
+###### KPMG International 
 *June 2019 - February 2020*\
 - Implemented and managed a Power BI dashboard for data storage, EDA, and monthly reports regarding information security risks and breaches.\
 - Increased productivity by building pipelines to automate data processing and dashboard creation using Python and Excel.
 
 ------------------------------------------------------------------------
 
-## Public Projects📢
+## 📢 Public Projects
 
 #####  🎤Founder of ITAM  Sports Analytics Conference
 The [ITAM Sports Analytics Conference](https://itam-sports-analytics-conference.github.io/) aspires to be the most important sports analytics conference in Latin America.
@@ -107,11 +101,11 @@ Developed mixed-effects models to analyze penalty kicks in World Cup shootouts. 
 
 #####   🏀 NBA Playoffs Forecast & Trade Evaluation
 
-Enhanced plus-minus metrics in my undergrad thesis, predicting the 2015 NBA playoffs and evaluating the economic impact of player trades. [Link](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf)
+Enhanced plus-minus metrics in my undergrad thesis, predicting the 2015 NBA playoffs and evaluating the economic impact of player trades. [Link to document](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf)
 
 #####   🏒Win Probability Models for WNHL
 
-Applied Expected Threat (xT) metrics for hockey to assess game outcomes in the Women’s National Hockey League (WNHL) [Link](https://github.com/Echeney17/BigDataCup2021/blob/main/bdc_WP.pdf)
+Applied Expected Threat (xT) metrics for hockey to assess game outcomes in the Women’s National Hockey League (WNHL) [Link to paper](https://github.com/Echeney17/BigDataCup2021/blob/main/bdc_WP.pdf)
 
 ##### E🏈ntertainment Analuysis in the NFL
 Analyzed play-by-play data to gauge the evolution of perceived fan entertainment in football over two decades.
@@ -124,3 +118,12 @@ Analyzed play-by-play data to gauge the evolution of perceived fan entertainment
 -   **`Introduction to R for Health Workers`:** TA for a course at the National Institute of Public Health (INSP), teaching R programming and data visualization using Quarto.\
 -   **`Where to Aim a Penalty Kick`:** Joined Vox’s Phil Edwards for a discussion on penalty shootout analysis, examining psychological stress, dominant foot, and shooting first advantages.\
 -   **`The Role of the Sports Data Scientist`:** Delivered a talk at CETYS Tijuana, highlighting key responsibilities, methodologies, and the impact of data-driven decision-making in sports.
+
+------------------------------------------------------------------------
+
+### Contact Information ℹ️
+
+-   **Phone:** +52-55-22-96-96-84\
+-   **Email:** [pablolopez2733\@gmail.com](mailto:pablolopez2733@gmail.com)\
+-   **LinkedIn:** [pablo-lópez-landeros-423060157](https://www.linkedin.com/in/pablo-l%C3%B3pez-landeros-423060157)\
+-   **Portfolio:** [pablolopez2733.github.io/personal_website](https://pablolopez2733.github.io/personal_website/projects.html)
