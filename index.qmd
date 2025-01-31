@@ -2,7 +2,7 @@
 title: "Pablo Lopez Landeros"
 about:
   template: jolla
-  image: pll.jpeg
+  image: pll_v2.jpg_large
   links:
     - icon: twitter
       text: Twitter
@@ -18,11 +18,11 @@ about:
       href: mailto:pablolopez2733@gmail.com
 ---
 
-Basketball Data Scientist 📊 🧪 @ Zelus Analytics and ex-athlete 🏀 
+[Basketball Data Scientist 📊 🧪 @ Zelus Analytics](https://www.zelusanalytics.com/) and ex-athlete 🏀 
 
 Currently working and doing research on sports quantitative analysis **(and a PhD)** 🇩🇪
 
-5+ years of experience in sports quantitative analysis.
+Worked in 🏒 analytics for 2 years
 
 Interested in exploring the instersection between **Computing and Mathematics for descriptive and predictive modeling with applications in sports, physics, and biology.**
 
@@ -31,5 +31,4 @@ Interested in exploring the instersection between **Computing and Mathematics fo
 Native R speaker but will do Python for food. 
 
 Zenyatta main.
-
 
