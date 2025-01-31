@@ -18,9 +18,15 @@ about:
       href: mailto:pablolopez2733@gmail.com
 ---
 
-Data Scientist 📊 🧪 @ Zelus Analytics and ex-athlete 🏀 currently living his dream of working and doing research on sports quantitative analysis.
+Basketball Data Scientist 📊 🧪 @ Zelus Analytics and ex-athlete 🏀 
 
-Interested in exploring the instersection between Computing and Mathematics and all its possible applications in physics, biology and sports.
+Currently working and doing research on sports quantitative analysis **(and a PhD)** 🇩🇪
+
+5+ years of experience in sports quantitative analysis.
+
+Interested in exploring the instersection between **Computing and Mathematics for descriptive and predictive modeling with applications in sports, physics, and biology.**
+
+[Co-Founder and Organizer of ITAM Sports Analytics](https://itam-sports-analytics-conference.github.io/)
 
 Native R speaker but will do Python for food. 
 
