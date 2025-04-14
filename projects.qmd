@@ -1,54 +1,57 @@
 
 ## Projects 🧪
 
-Here are some of the projects I have worked on:
+Over the course of my career, I’ve worked on a variety of projects from sports to public health. Here are a few highlights.
+
+***
 
 ⚽️[Penalty Shootout Analysis]()
 <br> 
 Developed mixed effects models to analyze penalty kicks in World Cup shootouts, examining factors such as psychological stress, dominant foot, and the advantage of shooting first.
 
-![Team Efficiency Analysis](imgs/team_eff.png)
+<img src="imgs/team_eff.png" alt="Team Efficiency Analysis" width="400"/>
 
+***
 
-<br> 
 🏀 [Application of Regularized Regression Methods to forecast the NBA Playoffs & Trade Evaluation Scenarios.](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf)
 <br> 
 This is my undergrad thesis. Using regularized regression methods, we implement an improvement over the traditional plus-minus metric. We then explore the predictive value of our model by forecasting the outcome of the 2015 playoffs.
 <br> 
 <br> 
-![Predictions for Golden State Warriors](imgs/warrtable.png)
-
-
-🏈 [A ggplot implementation for plotting NFL player tracking data.](https://www.kaggle.com/code/pablollanderos33/generate-play-animations-with-ggplot)
-<br> 
-Using ggplot and based on previous work by Adam Sonty, I created a set of functions to plot NFL tracking data.  
-![alt text](imgs/play.gif)
+<img src="imgs/warrtable.png" alt="Predictions for Golden State Warriors" width="400"/>
 
 ***
 
+🏈 [A ggplot implementation for plotting NFL player tracking data.](https://www.kaggle.com/code/pablollanderos33/generate-play-animations-with-ggplot)
+<br> 
+Using ggplot and based on previous work by Adam Sonty, I created a set of functions to plot NFL tracking data.
+<br> 
+<img src="imgs/play.gif" alt="Animation for Dallas Cowboys play" width="500"/>
+
+***
 
 🏒 [Projecting Win Probability in Women's Hockey](https://github.com/Echeney17/BigDataCup2021/blob/main/bdc_WP.pdf)
 <br> 
 For our Big Data Cup entry, we adapted a soccer metric called Expected Threat (xT) to Hockey and used it to calculate Win Probability in Women's Hockey. 
-![vizxt](https://github.com/pablolopez2733/BigDataCup/blob/main/Pablo/playviz.png?raw=true)![heat](https://github.com/pablolopez2733/BigDataCup/blob/main/nxt.png?raw=true)
-
+<br> 
+ <img src="https://github.com/pablolopez2733/BigDataCup/blob/main/nxt.png?raw=true" alt="Animation for Dallas Cowboys play" width="320"/> <img src="https://github.com/pablolopez2733/BigDataCup/blob/main/Pablo/playviz.png?raw=true" alt="Animation for Dallas Cowboys play" width="320"/>
+ 
 ***
 
 💻 [Quarto Tutorial for beginners](https://pablolopez2733.github.io/Quarto-Tutorial/Introduccion.html)
 <br> 
 As part of an introductory R course for health workers taught by [Rodrigo Zepeda](https://twitter.com/RodZepeda) and me, I created a Quarto tutorial which covers report generation in Word and HTML. 
 <br> 
-<br> 
-![covid](https://pablolopez2733.github.io/Quarto-Tutorial/Reporte1_files/figure-html/unnamed-chunk-3-1.png){fig-align="center"}
+<br>
+<img src="https://pablolopez2733.github.io/Quarto-Tutorial/Reporte1_files/figure-html/unnamed-chunk-3-1.png" alt="Animation for Dallas Cowboys play" align="center" width="500"/>
 
 ***
-
 
 ⚽ [Soccer Simulator](hhttps://github.com/pablolopez2733/Soccer_Simulator)
 <br> 
 A tool for simulating soccer matches using Poisson distro + Monte Carlo Simulation. Still a WIP!
-<br> 
-![soccersim](https://github.com/pablolopez2733/Soccer_Simulator/blob/main/Soccer_Sim_V2/plots/cluster_fig.png?raw=true)
+<br>
+<img src="https://github.com/pablolopez2733/Soccer_Simulator/blob/main/Soccer_Sim_V2/plots/cluster_fig.png?raw=true" alt="Animation for Dallas Cowboys play" align="center" width="400"/>
 
 ***
 
@@ -56,15 +59,14 @@ A tool for simulating soccer matches using Poisson distro + Monte Carlo Simulati
 <br> 
 <br> 
 I worked with [Rodrigo Zepeda](https://twitter.com/RodZepeda) and [Guillermo de Anda](https://twitter.com/gdeandajauregui) on implementing a series of models for estimating effective reproductive number of COVID-19 for Mexico City using Contact Index and different time series methods.
-<br> 
 
 ***
 
 🍜 [Random restaurant decider](https://github.com/pablolopez2733/Restaurant-Random-Walk)
 <br> 
 R codes for running a random walk and randomly selecting which restaurant to dine at :)
-<br> 
-![res](https://github.com/pablolopez2733/Restaurant-Random-Walk/raw/main/race_res.gif){fig-align="center"}
+<br>
+<img src="https://github.com/pablolopez2733/Restaurant-Random-Walk/raw/main/race_res.gif" alt="Animation for Dallas Cowboys play" align="center" width="400"/>
 
 ***
 
@@ -73,7 +75,6 @@ R codes for running a random walk and randomly selecting which restaurant to din
 Created and deployed an interactive web app for encrypting and deciphering messages using vigenere ciphering.
 <br> 
 ![alt text](imgs/vig.png)
-
 
 ***
 

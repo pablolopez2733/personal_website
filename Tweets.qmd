@@ -1,58 +1,64 @@
-## Media Appearances 📹
+## Public Speaking & Engagements 🎤📊
 
-[Estadisticas de Penales en el Futbol](https://www.tiktok.com/@telecomasiasport_es/video/7348255473319021842?_d=secCgYIASAHKAESPgo81vm8B1pVMvEKhuvxD059wVjJf%2BD1foDfZN8q%2FXXSm7Rs1jCsGwX2OcY0qvVup9jkAq1Xe1gA1sptMHAbGgA%3D&_r=1&share_app_id=1233&share_item_id=7348255473319021842&timestamp=1712598280&u_code=djhicik27ekem8&utm_campaign=client_share&utm_source=short_fallback)
+As a Data Scientist specializing in sports analytics, I frequently share insights through public speaking, workshops, and data-driven storytelling. Here are some highlights from my recent engagements:
 
-Mencion en TELECOM ASIA sobre la investigacion que hice en penaltis
+---
 
-![Team Efficiency Analysis](imgs/team_eff.png)
+##### **🇺🇦Workshops for Ukraine**  
 
-------------------------------------------------------------------------
-[World Cup penalty kicks, tracked](https://www.youtube.com/watch?v=HAuwPue57Vs&ab_channel=Vox)
-<br> 
-I joined `Vox's` Phil Edwards for a quick chat about a dataset I put together about penalty kicks during World Cups.
+  - [Frame-by-Frame Modeling of NFL Data with gganimate](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine#h.lv0wczr82vfz): Delivered a practical workshop demonstrating how to visualize NFL player and ball movements frame-by-frame using tracking data to uncover deeper strategic insights.
+  
+  <iframe src="https://www.kaggle.com/embed/pablolopezlanderos/workshops-for-ukraine-validating-spatial-data?kernelSessionId=230075622" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Workshops for Ukraine: Validating Spatial Data"></iframe>
+  
+  ***
+  
+##### 🏒 **ITAM Sports Analytics Hockey Workshop**
 
-{{< video <iframe width="560" height="315" src="https://www.youtube.com/embed/HAuwPue57Vs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> >}}
+  - Conducted a workshop for undergraduate students on utilizing frame-by-frame data analysis to extract deeper performance insights in hockey.
+  
+  <img src="imgs/itam-poster.jpg" alt="Animation for Dallas Cowboys play" align="center" width="350"/>
+  
+  ***
+  
+##### 🏟 **World Cup Penalty Kicks, Tracked (Vox Media)**  
 
-<hr> 
+  - Discussed my data-driven analysis of World Cup penalty kicks with Vox’s Phil Edwards, showcasing trends and player strategies.
+  
+  <iframe width="500" height="300" src="https://www.youtube.com/embed/HAuwPue57Vs?si=Hdl-Hk8cekktuOSV&amp;start=88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Tweets 📱
+***
 
-Here are some of my data driven posts on Twitter ⌨️
+##### ⚽️ **Penalty Statitstics in Soccer** 
 
-------------------------------------------------------------------------
+  - Featured in TELECOM ASIA for an analysis of penalty kick statistics, exploring patterns and effectiveness in high-pressure scenarios.
+  
+  <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@telecomasiasport_es/video/7348255473319021842" data-video-id="7348255473319021842" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@telecomasiasport_es" href="https://www.tiktok.com/@telecomasiasport_es?refer=embed">@telecomasiasport_es</a> Penales 🤯 <a title="telecomasiasport" target="_blank" href="https://www.tiktok.com/tag/telecomasiasport?refer=embed">#TelecomAsiaSport</a> <a title="futbol" target="_blank" href="https://www.tiktok.com/tag/futbol?refer=embed">#Futbol</a> <a title="deportes" target="_blank" href="https://www.tiktok.com/tag/deportes?refer=embed">#Deportes</a> <a target="_blank" title="♬ sonido original - telecomasiasport_es" href="https://www.tiktok.com/music/sonido-original-7348255643301710593?refer=embed">♬ sonido original - telecomasiasport_es</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+  
+  ***
+  
+##### 🧑 **[Lini Connect: CETYS](https://www.youtube.com/watch?v=HAuwPue57Vs&ab_channel=Vox)**  
 
-🔷 [Using EPA to visualize defensive rankings in the NFL](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf) 
-<br> 
-Using the EPA metric, I tracked how defenses were faring up until week 7 of the 2020-2021 season.
+  - Delivered a presentation to undergraduate students on the evolving role of sports scientists and the impact of their work in modern athletic performance and research.
+  <img src="imgs/lini.jpg_large" alt="Animation for Dallas Cowboys play" align="center" width="400"/>
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Después de 7 semanas, así están las defensas en la NFL. 🏈📊<br><br>Eje x -&gt; EPA permitido por tierra en cada jugada.<br>Eje y -&gt; EPA permitido por aire en cada jugada.<br><br>Al ser defensas, mientras menos EPA permitan, es mejor. Por eso las mejores están en números negativos. <a href="https://t.co/eQRxTFoumH">pic.twitter.com/eQRxTFoumH</a></p>&mdash; Pablo L. Landeros (@Landeros_p33) <a href="https://twitter.com/Landeros_p33/status/1322211948084252673?ref_src=twsrc%5Etfw">October 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-<hr> 
-🔷 [Using Poisson Distribution and scoring rates to predict Liga MX quarter-finals](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf) 
-<br> 
-Using Poisson Distribution, betting market odds and Expected Goals; I predicted the probability of different outcomes for the quarter finals of the mexican soccer league. 
+---
+### Posts
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">📊 Usando Poisson, Simulación Monte Carlo y ajustando con Expected Goals y momios de casas de apuestas<br><br>Van predicciones de resultados y ganadores para la ida de los cuartos de final de la <a href="https://twitter.com/LigaBBVAMX?ref_src=twsrc%5Etfw">@LigaBBVAMX</a> <br><br>Ganadores:<br>⚽️Atlas<br>⚽️Tigres<br>⚽️Pachuca<br>⚽️America<br><br>Predicciones de marcador: <a href="https://t.co/gm1diPTp19">pic.twitter.com/gm1diPTp19</a></p>&mdash; Pablo L. Landeros (@Landeros_p33) <a href="https://twitter.com/Landeros_p33/status/1524519416477663234?ref_src=twsrc%5Etfw">May 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-<hr> 
+- **[NFL Defensive Rankings Using EPA](https://twitter.com/Landeros_p33/status/1322211948084252673)**  
+  - Created visualizations evaluating NFL defensive performance using Expected Points Added (EPA), highlighting defensive efficiency across teams.
 
-🔷 [Has the NFL become more entertaining in recent years?](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf) <br> 
-A quick analysis on play by play data revealed that NFL Football has become a more entertaining sport than it was 20 years ago.
+- **[Predicting Liga MX Outcomes with Poisson and Expected Goals](https://twitter.com/Landeros_p33/status/1524519416477663234)**  
+  - Applied Poisson distributions combined with betting odds and Expected Goals metrics to forecast match outcomes in Liga MX quarter-finals.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.@reinhurdler posted that this NFL week was particularly boring (and he was right) <br><br>Then <a href="https://twitter.com/Unmalkicker?ref_src=twsrc%5Etfw">@Unmalkicker</a> suggested it would be interesting to see yearly evolution of data to see if it is becoming a more entertaining sport. <br><br>Turns out, the NFL is SLIGHLTY more fun in recent years. <a href="https://t.co/qdijTN4vf7">pic.twitter.com/qdijTN4vf7</a></p>&mdash; Pablo L. Landeros (@Landeros_p33) <a href="https://twitter.com/Landeros_p33/status/1453475387858685954?ref_src=twsrc%5Etfw">October 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-<hr> 
+- **[Analyzing NFL Entertainment Trends](https://twitter.com/Landeros_p33/status/1453475387858685954)**  
+  - Conducted an analysis revealing the NFL’s increased entertainment value over the past two decades, based on play-by-play data.
 
-🔷 [Comeback Probability using Monte Carlo Simulation](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf) <br> 
-Using Poisson distribution and Monte Carlo simulation, I predicted the probability of UNAM coming back from a 4 goal deficit against Cruz Azul in the Mexican Cup semifinals. Our predicted probabilities matched those published by betting sites.
+- **[Monte Carlo Simulations for Soccer Comeback Probabilities](https://twitter.com/Landeros_p33/status/1336383488531046405)**  
+  - Used Monte Carlo simulations and Poisson modeling to calculate comeback probabilities, aligning predictions closely with betting markets.
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">⚽️Usando Simulación Monte Carlo + la idea de <a href="https://twitter.com/migueldva?ref_src=twsrc%5Etfw">@migueldva</a> de ajustar una distribución Poisson para simular partidos de futbol. ⚽️<br><br>📊Nos aventamos 10,000 simulaciones para estimar cuáles eran las probabilidades de que <a href="https://twitter.com/PumasMX?ref_src=twsrc%5Etfw">@PumasMX</a> avanzara a la final: <a href="https://t.co/zzR1nIMX4V">pic.twitter.com/zzR1nIMX4V</a></p>&mdash; Pablo L. Landeros (@Landeros_p33) <a href="https://twitter.com/Landeros_p33/status/1336383488531046405?ref_src=twsrc%5Etfw">December 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-<hr> 
+- **[English Premier League Performance Analysis](https://twitter.com/Landeros_p33/status/1306623919479291914)**  
+  - Extended baseball’s Pythagorean win theorem to soccer, analyzing EPL teams' performance against expected outcomes based on goal differentials.
 
-🔷 [Over/Under performers in the EPL](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf) <br> 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">19-20 EPL under/over performers<br><br>⚾️Baseball&#39;s pythagorean win theorem can be extended to soccer for estimating points per game based on the goals scored and the goals received in a season. <br><br>-Teams above the line performed better than expected<br>-Teams below the line underperformed <a href="https://t.co/fhRPptoch3">pic.twitter.com/fhRPptoch3</a></p>&mdash; Pablo L. Landeros (@Landeros_p33) <a href="https://twitter.com/Landeros_p33/status/1306623919479291914?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-<hr> 
+- **[Probability Modeling in Everyday Scenarios](https://twitter.com/Landeros_p33/status/1503728975323045890)**  
+  - Explored real-world probability problems, such as elevator usage scenarios, using statistical modeling and simulations.
 
-🔷 [Elevator Probabilities](https://github.com/pablolopez2733/NBA-Forecast/blob/main/reports/Tesis_PabloLopezLanderos.pdf)
-<br>    
-If 10 people take an elevator in a 5 story building. What is the probability that none of them get out of the elevator in the first two floors? Through simulation, we can get an answer.
-
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Aquí están mis códigos en <a href="https://twitter.com/hashtag/RStats?src=hash&amp;ref_src=twsrc%5Etfw">#RStats</a> y según yo la probabilidad de que nadie baje en los primeros dos pisos es de 6.59 % 😋<br><br>Mañana lo intento con Monte Carlo a ver que sale.<br><br>Dejo mi repo de Github por si alguien le interesa:<a href="https://t.co/bvsXIrcB0f">https://t.co/bvsXIrcB0f</a> <a href="https://t.co/4StVkn6r9Z">https://t.co/4StVkn6r9Z</a> <a href="https://t.co/OBS3WXOBOe">pic.twitter.com/OBS3WXOBOe</a></p>&mdash; Pablo L. Landeros (@Landeros_p33) <a href="https://twitter.com/Landeros_p33/status/1503728975323045890?ref_src=twsrc%5Etfw">March 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-<hr> 
