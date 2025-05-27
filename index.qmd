@@ -2,7 +2,7 @@
 title: "Pablo Lopez Landeros"
 about:
   template: jolla
-  image: pll_v2.jpg_large
+  image: bball-hs.jpeg
   links:
     - icon: twitter
       text: Twitter
@@ -18,15 +18,13 @@ about:
       href: mailto:pablolopez2733@gmail.com
 ---
 
-I’m a mathematician  and former athlete 🏀 turned [Data Scientist 📊 🧪 @ Zelus Analytics](https://www.zelusanalytics.com/) specializing in Basketball and Hockey R&D. 
+I’m a mathematician  and former athlete 🏀 turned [Data Scientist @ Zelus Analytics](https://www.zelusanalytics.com/){style="color: #95d593;"} specializing in Basketball and Hockey R&D. 
 
 For years, I’ve been building and refining predictive models, applying Bayesian statistics, machine learning, time series analysis, and spatial modeling in a variety of projects, from public health initiatives to frame by frame models in sports.
 
-Currently, I’m researching and working in sports quantitative analysis (and pursuing a PhD 🇩🇪).
+I’m particularly interested in the intersection of computing and mathematics, exploring how descriptive and predictive modeling can drive insights in [sports, physics, and biology](){style="color: #349aff;"}.
 
-I’m particularly interested in the intersection of computing and mathematics, exploring how descriptive and predictive modeling can drive insights in sports, physics, and biology.
-
-[Co-Founder and Organizer of ITAM Sports Analytics](https://itam-sports-analytics-conference.github.io/)
+[Co-Founder and Organizer of ITAM Sports Analytics](https://itam-sports-analytics-conference.github.io/){style="color: #d0a7ec;"}    
 
 Native R speaker but will do Python for food. 
 
