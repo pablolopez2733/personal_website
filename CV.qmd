@@ -1,3 +1,8 @@
 # CV ☕️
+<iframe src="imgs/Resume-PLL-2025.pdf" width="100%" height="600px">
+  <p>Your browser does not support iframes. 
+     <a href="imgs/Resume-PLL-2025.pdf">Download the PDF</a>
+  </p>
+</iframe>
 
-- [Download my CV in PDF here](https://drive.google.com/file/d/13xs8Et6CLndTyrc5w_dAlHRRt7tz092u/view?usp=sharing)
+- [Download my CV in PDF here](https://drive.google.com/file/d/1tF4OZdnPjHwQ-Rvk_F0oFiUlN99rNY7V/view?usp=sharing)

@@ -4,30 +4,104 @@ Data Scientist and former athlete with 5+ years of experience in sports quantita
 
 Skilled in synthesizing complex data and leveraging statistical methods to enhance organizational outcomes. Passionate about the intersection of Computing and Mathematics for descriptive and predictive modeling with applications in sports, physics, and biology.
 
-------------------------------------------------------------------------
+::: {.callout-tip collapse="true"}
+## 🧪Professional Experience
 
+#### 🏀 Basketball Data Scientist
+###### Zelus Analytics
+*November 2024 - Present*\
+
+- Developed and implemented Value Attribution metrics using state-of-the-art frame by frame models, delivering advanced
+insights to NBA teams.
+
+- Leading the development of advanced shot probability models for college basketball, leveraging spatial data to improve
+predictive accuracy in player and team performance analysis
+
+#### 🏒 Hockey Data Scientist
+###### Zelus Analytics
+
+*November 2022 - November 2024*\
+
+- Key contributor in developing the Hockey Intelligence Platform capabilities. Focused on coding, productionalizing, and
+maintaining complex statistical models in cloud environments, doubling client base within the first year.\
+
+- Collaborate closely with NHL teams to tailor the platform's capabilities to their specific needs, ensuring the delivery of
+actionable insights and data-driven strategies while monitoring the latest developments in sports analytics; integrating
+cutting-edge techniques and technologies to maintain the platform's competitive edge.\
+
+- Lead the development of frame-by-frame shot analysis models, as well as improvements to traditional metrics such as
+Adjusted Plus-Minus and Corsi by integrating advanced statistical methods.\
+
+- Present key findings and advancements to stakeholders, demonstrating the platform's value and securing continued
+investment and support.\
+
+#### 🤖 Machine Learning Engineer
+###### Engen Capital
+
+*March 2022 - November 2022*\
+
+- Developed and deployed AI-driven computer vision systems to automate and expedite credit application processes, reducing response times from two weeks to three days.\
+
+- Enhanced risk assessment models by optimizing machine learning algorithms that predict applicant default probabilities.
+
+#### 👹 Internship (Scouting)
+###### Toluca F.C.
+*June 2021 - December 2021*\
+
+- Aided with the pinpointing of potential acquisitions from minor South American leagues by leveraging advanced soccer analytics, streamlining the scouting process for coaches and scouts.
+
+#### 🚚 Data Scientist 
+###### Coca Cola FEMSA
+*January 2021 - March 2022*\
+
+- Utilized multivariate time series and machine learning algorithms to refine sales forecasts, achieving a model accuracy of 90%.\
+
+- Increased zone-based sales forecasting speed by 40% using xGBoost multivariate time series and supervised regression trees algorithms.\
+
+- Evaluated the effects of Coca Cola’s marketing strategies on sales and revenue using statistical models.\
+
+- Oversaw and optimized SQL databases to improve data architecture and quality across Mexico, ensuring robust data management and enhancing overall data integrity.\
+
+- Automated internal reporting processes, reducing required labor by over 12 hours weekly.
+
+#### 🔐 Cybersecurity Intern
+###### KPMG International 
+*June 2019 - February 2020*\
+
+- Implemented and managed a Power BI dashboard for data storage, EDA, and monthly reports regarding information security risks and breaches.\
+
+- Increased productivity by building pipelines to automate data processing and dashboard creation using Python and Excel.
+
+:::
+
+::: {.callout-tip collapse="true"}
 ## 📚 Education 
 
 ### B.S. Applied Mathematics 
 
 ###### Instituto Tecnologico Autonomo de Mexico
 *2016 – 2020*\
+
 - **GPA:** 8.8/10\
+
 - Graduated with honorable mention.\
+
 - `Thesis`: Application of Regularized Regression Methods to Forecast the NBA Playoffs.
 
 ### Ph.D. Sports Analytics
 
 ###### University of Saarland
 *2024 - Present* (In progress, proposal stage)\
+
 - `Thesis`: Modeling Penalty Kicks as a Sequential Decision-Making Process.
 
 ### Certificate in Physical Data Analysis with R for Sport Scientists
 
 **Barça Innovation Hub** \| 2024
 
-------------------------------------------------------------------------
+:::
 
+::: {.callout-tip collapse="true"}
 ## 🔧Technical Skills
 
 -   **`Foreign Language:`** C2 English Proficiency Certificate from Cambridge University.\
@@ -38,50 +112,9 @@ Skilled in synthesizing complex data and leveraging statistical methods to enhan
 -   **`Communication`:** Effective verbal and written communication skills for conveying data-driven analysis and results.\
 -   **`Reporting & Automation`:** Quarto, LaTeX, and Markdown.\
 -   **`Web Development`:** Proficient in ASP.NET (C#), Shiny (R), and basic Vue (JavaScript, CSS, HTML5).
+:::
 
-------------------------------------------------------------------------
-
-## 🧪Professional Experience
-
-#### Basketball Data Scientist
-###### Zelus Analytics
-*November 2024 - Present*\
-- CONFIDENTIAL BUT U CAN ASK :D
-
-#### Hockey Data Scientist
-###### Zelus Analytics
-
-*November 2022 - November 2024*\
-- CONFIDENTIAL BUT U CAN ASK :D
-
-#### Machine Learning Engineer
-###### Engen Capital
-*March 2022 - November 2022*\
-- Developed and deployed AI-driven computer vision systems to automate and expedite credit application processes, reducing response times from two weeks to three days.\
-- Enhanced risk assessment models by optimizing machine learning algorithms that predict applicant default probabilities.
-
-#### Internship (Scouting)
-###### Toluca F.C.
-*June 2021 - December 2021*\
-- Aided with the pinpointing of potential acquisitions from minor South American leagues by leveraging advanced soccer analytics, streamlining the scouting process for coaches and scouts.
-
-#### Data Scientist 
-###### Coca Cola FEMSA
-*January 2021 - March 2022*\
-- Utilized multivariate time series and machine learning algorithms to refine sales forecasts, achieving a model accuracy of 90%.\
-- Increased zone-based sales forecasting speed by 40% using xGBoost multivariate time series and supervised regression trees algorithms.\
-- Evaluated the effects of Coca Cola’s marketing strategies on sales and revenue using statistical models.\
-- Oversaw and optimized SQL databases to improve data architecture and quality across Mexico, ensuring robust data management and enhancing overall data integrity.\
-- Automated internal reporting processes, reducing required labor by over 12 hours weekly.
-
-####  Cybersecurity Intern
-###### KPMG International 
-*June 2019 - February 2020*\
-- Implemented and managed a Power BI dashboard for data storage, EDA, and monthly reports regarding information security risks and breaches.\
-- Increased productivity by building pipelines to automate data processing and dashboard creation using Python and Excel.
-
-------------------------------------------------------------------------
-
+::: {.callout-tip collapse="true"}
 ## 📢 Public Projects
 
 #####  🎤Founder of ITAM  Sports Analytics Conference
@@ -109,15 +142,20 @@ Applied Expected Threat (xT) metrics for hockey to assess game outcomes in the W
 
 ##### E🏈ntertainment Analuysis in the NFL
 Analyzed play-by-play data to gauge the evolution of perceived fan entertainment in football over two decades.
-
-------------------------------------------------------------------------
-
+:::
+::: {.callout-tip collapse="true"}
 ## Teaching & Public Engagements🧑‍🏫 
 
 -   **`ITAM Sports Analytics Conference:`** Organizer and Founder of Latin America’s first sports tech summit on advancements in sports technology and data science.\
+-   **`Validating Spatial Football Models:`** Designed and led a workshop in a series supporting Ukraine, where participants learned to visualize football tracking data and identify patterns using ggplot2 and gganimate.\
 -   **`Introduction to R for Health Workers`:** TA for a course at the National Institute of Public Health (INSP), teaching R programming and data visualization using Quarto.\
--   **`Where to Aim a Penalty Kick`:** Joined Vox’s Phil Edwards for a discussion on penalty shootout analysis, examining psychological stress, dominant foot, and shooting first advantages.\
+-   **`World Cup Penalty Kicks, Tracked`:** Joined Vox’s Phil Edwards for a discussion on penalty shootout analysis, examining psychological stress, dominant foot, and shooting first advantages.\
+-   **`The Perfect Penalty Explained`:** Joined Sport Explained's Michael Bollenbacher to discuss how we can identify the best and worst penalty shootout kicking countries using mixed-effect models to control for external variables.\
 -   **`The Role of the Sports Data Scientist`:** Delivered a talk at CETYS Tijuana, highlighting key responsibilities, methodologies, and the impact of data-driven decision-making in sports.
+-   **`ITAM Sports Analytics Hockey Workshop`:** Conducted a workshop for undergraduate students on utilizing frame-by-frame data analysis to extract deeper performance insights in hockey.
+:::
+
+
 
 ------------------------------------------------------------------------
 

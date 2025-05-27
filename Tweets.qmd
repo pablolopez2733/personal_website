@@ -1,6 +1,6 @@
 ## Public Speaking & Engagements 🎤📊
 
-As a Data Scientist specializing in sports analytics, I frequently share insights through public speaking, workshops, and data-driven storytelling. Here are some highlights from my recent engagements:
+As a [Data Scientist specializing in sports analytics](){style="color: #95d593;"}, I frequently share insights through public speaking, workshops, and data-driven storytelling. Here are some highlights from my recent engagements:
 
 ---
 
